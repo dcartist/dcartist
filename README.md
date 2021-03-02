@@ -2,7 +2,7 @@
 
 
 
-### ![DCartist](banner.png)
+### ![DCartist](banner.jpg)
 
 
 

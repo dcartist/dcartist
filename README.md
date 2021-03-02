@@ -20,10 +20,9 @@ The Artistic Developer
 
 ------
 
-|                                                           	|                                                        	|                                                                	|
-|-----------------------------------------------------------	|--------------------------------------------------------	|----------------------------------------------------------------	|
-| - ReactJS<br>- Angular<br>- Javascript<br>- HTML<br>- CSS 	| - Python<br>- Django<br>- Flask<br>- Postgres<br>- SQL 	| - PHP<br>- Laravel<br>- Qbasic<br>- Turbo-Pascal<br>- CGI-PERL 	|
-
+|                                                 	|                                              	|                                                      	|
+|-------------------------------------------------	|----------------------------------------------	|------------------------------------------------------	|
+| ReactJS<br>Angular<br>Javascript<br>HTML<br>CSS 	| Python<br>Django<br>Flask<br>Postgres<br>SQL 	| PHP<br>Laravel<br>Qbasic<br>Turbo-Pascal<br>CGI-PERL 	|
   
 
 ### **Contact:** 

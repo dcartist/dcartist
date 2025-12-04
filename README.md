@@ -54,9 +54,6 @@ The Artistic Developer
 
 
 
-<a href="https://github.com/dcartist/dcartist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcartist&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="GitHub Stats" />
-</a>
 
 ### **Contact:** 
 
@@ -70,9 +67,7 @@ The Artistic Developer
 
 ------
 
-<a href="https://github.com/dcartist/dcartist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dcartist&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="GitHub Stats" />
-</a>
+
 
 
 

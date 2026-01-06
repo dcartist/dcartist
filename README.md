@@ -59,7 +59,7 @@ The Artistic Developer
 
 ------
 
-- Email me: Pbannerman13@gmail.com 
+- Email me: thedcdeveloper@gmail.com 
 - Website: https://www.dcartist.studio
 - LinkedIn: https://www.linkedin.com/in/dcartist/
 - Twitter: https://twitter.com/dcartist

@@ -14,7 +14,6 @@ The Artistic Developer
 
 ### To me programming is another art form that people can use.
 
-
 ## 🛠️ Skills
 
 ### Languages
@@ -36,6 +35,8 @@ The Artistic Developer
     <td align="center"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /><br>Angular</a></td>
     <td align="center"><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /><br>Bootstrap</a></td>
     <td align="center"><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /><br>TailwindCSS</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /><br>Sass</a></td>
     <td align="center"><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /><br>jQuery</a></td>
     <td align="center"><a href="https://mui.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /><br>Material UI</a></td>
@@ -52,6 +53,8 @@ The Artistic Developer
     <td align="center"><a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /><br>Flask</a></td>
     <td align="center"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /><br>Laravel</a></td>
     <td align="center"><a href="https://graphql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /><br>GraphQL</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /><br>MySQL</a></td>
     <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /><br>MongoDB</a></td>
     <td align="center"><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /><br>PostgreSQL</a></td>
@@ -68,10 +71,11 @@ The Artistic Developer
     <td align="center"><a href="https://www.adobe.com/uk/products/premiere.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /><br>Premiere Pro</a></td>
     <td align="center"><a href="https://www.adobe.com/uk/products/xd.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /><br>XD</a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /><br>Figma</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://www.sketch.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /><br>Sketch</a></td>
   </tr>
 </table>
-
 
 ### **Contact:** 
 
